@@ -1,4 +1,4 @@
-Implementing linux terminal utils for Windows. Why? for ease of usage or something idk. 😁
+Implementing linux terminal utils for Windows from scratch without looking at the original source. Why? because I hate myself. 😁
 
 Please note that most of the programs here are simple because I started working on it yesterday. However I am planning on working on this and expanding the tools. one example is the file utility. currently, it uses a small magic database I put in it, but I want to write a wrapper around libmagic to use the *massive (you know what else is massive?) 😁* database it has.
 
