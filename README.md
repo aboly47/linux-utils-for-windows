@@ -11,4 +11,4 @@ Download the release zip file and open it. unzip it somewhere and then run `inst
 # Compile instructions!
 
 install TCC or any other c compiler (with caution), either through the download or using scoop. then, install make, I recommend installing it through scoop too. then, open command line or terminal in the location and run `make`. this will compile everything and put them inside `lufw`. then, put this folder somewhere and add it to your path (use `Edit the system environment variables` app). and bada bing, bada boom, you can now use the tools. even without the .exe suffix. 
-you will get a few warnings during compilation but it doesn't matter, so... don't mind them. 👌
+you will get a few warnings during compilation but they don't matter, so... don't mind them. 👌
